@@ -1,0 +1,47 @@
+{
+  "id": "VONE",
+  "name": "Vallibel One PLC",
+  "description": "Grass-Roots Client-Server Groupware",
+  "tagline": "Strategize Cutting-Edge Web-Readiness",
+  "company-email": "terry02@ziemann.info",
+  "ein": "80-6501139",
+  "logo": "https://cdn.cse.lk/cmt/upload_logo/1074_1601464262.jpeg",
+  "profile": {
+    "industry": "S&Ls/Savings Banks",
+    "sector": "Financial",
+    "employee_count": 13793,
+    "equity_type": "ORD",
+    "description": "Vallibel One PLC is a diversified investment holding company. The Company's segments include Investment Sector, Tiles Sector, Consumer Sector, Life Style Sector, Sanitaryware Sector, Plantation Sector, Bank & Finance, Hotel, Health Sector and Other. Its subsidiaries include Royal Ceramics Lanka PLC (RCL), L B Finance PLC, Greener Water Limited and Delmege Limited. RCL is engaged in manufacturing and marketing of floor and wall tiles. L B Finance PLC provides a range of financial services encompassing acceptance of deposits, granting lease facilities, hire purchase, mortgage loans, gold loans, personnel loans, factoring, margin trading, trade finance loans, microfinance and other credit facilities, real estate development and other related services. Greener Water Limited is an intended hotel operator. Delmege Limited is managing its subsidiaries, carrying out investment activities, and providing management and administration services to the companies within the Company.",
+    "address": "Echelon Square, Colombo 01, Colombo, 00100, Sri Lanka",
+    "phone": "+94-11-2445577",
+    "fax": "11-2441444",
+    "email": "-",
+    "web": "www.vallibelone.com",
+    "executives": [
+      {
+        "name": "Natalie Bell",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Chloe Hill",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Elizabeth Forsyth",
+        "title": "Managing Director"
+      },
+      {
+        "name": "Dan Piper",
+        "title": "Director"
+      },
+      {
+        "name": "Kimberly Lawrence",
+        "title": "Director"
+      },
+      {
+        "name": "Sophie Grant",
+        "title": "Director"
+      }
+    ]
+  }
+}

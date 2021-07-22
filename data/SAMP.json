@@ -1,0 +1,47 @@
+{
+  "id": "SAMP",
+  "name": "Sampath Bank PLC",
+  "description": "Grass-Roots Client-Server Groupware",
+  "tagline": "Strategize Cutting-Edge Web-Readiness",
+  "company-email": "terry02@ziemann.info",
+  "ein": "80-6501139",
+  "logo": "https://cdn.cse.lk/cmt/upload_logo/431_1601463036.jpeg",
+  "profile": {
+    "industry": "Regional Banks",
+    "sector": "Financial",
+    "employee_count": 4016,
+    "equity_type": "ORD",
+    "description": "Sampath Bank PLC (the Bank) is a Sri Lanka-based commercial bank. The principal activities of Bank include accepting deposits, corporate and retail banking, project financing, trade financing, treasury and investment services, issuing of local and international credit and debit cards, off-shore banking, foreign currency operations and electronic banking services, such as telephone banking, Internet banking, mobile banking, payment gateway, money remittance facilities, pawning, leasing, factoring, hire purchase, travel related services and dealing in government securities. It operates through four segments: Banking; Leasing, hire purchase & factoring; Dealing/Investment, and Others. The Leasing, hire purchase & factoring segments include finance leasing, hire purchase and factoring business of the Bank. The Dealing/Investment segment involves activities, such as stock broking, securities dealing, investment banking, venture capital businesses and foreign currency related services.",
+    "address": "Colombo, 02, Sri Lanka",
+    "phone": "+94-11-4730630",
+    "fax": "11-2303085",
+    "email": "-",
+    "web": "www.sampath.lk",
+    "executives": [
+      {
+        "name": "Natalie Bell",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Chloe Hill",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Elizabeth Forsyth",
+        "title": "Managing Director"
+      },
+      {
+        "name": "Dan Piper",
+        "title": "Director"
+      },
+      {
+        "name": "Kimberly Lawrence",
+        "title": "Director"
+      },
+      {
+        "name": "Sophie Grant",
+        "title": "Director"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "JKH",
+  "name": "John Keells Holdings PLC",
+  "description": "Grass-Roots Client-Server Groupware",
+  "tagline": "Strategize Cutting-Edge Web-Readiness",
+  "company-email": "terry02@ziemann.info",
+  "ein": "80-6501139",
+  "logo": "https://cdn.cse.lk/cmt/upload_logo/508_1601461779.jpeg",
+  "profile": {
+    "industry": "Retail (Grocery)",
+    "sector": "Services",
+    "employee_count": 13889,
+    "equity_type": "ORD",
+    "description": "John Keells Holdings PLC is a holding company that manages a portfolio of holdings consisting of a range of business operations. The Company's segments are Transportation, Leisure, Property, Consumer Foods and Retail, Financial Services, Information Technology and Others. The transportation segment offers transportation related services. The leisure segment encompasses over two five star city hotels in Colombo and approximately eight resort hotels in Sri Lanka and over three resorts in Maldives under the Cinnamon Hotels and Resorts brand. The property segment concentrates on development and sale of residential apartments. The consumer foods and retail segment operates in over two categories namely manufacturing and retailing. The financial services segment offers financial solutions. The information technology segment comprises from business process outsourcing, software services and information integration to office automation. The others segment includes plantation services sector.",
+    "address": "Sir Chittampalam A. Gardiner Mawatha, Colombo 02, Colombo, 2, Sri Lanka",
+    "phone": "+94-11-2306000",
+    "fax": "11-2447087",
+    "email": "-",
+    "web": "www.keells.com",
+    "executives": [
+      {
+        "name": "Natalie Bell",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Chloe Hill",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Elizabeth Forsyth",
+        "title": "Managing Director"
+      },
+      {
+        "name": "Dan Piper",
+        "title": "Director"
+      },
+      {
+        "name": "Kimberly Lawrence",
+        "title": "Director"
+      },
+      {
+        "name": "Sophie Grant",
+        "title": "Director"
+      }
+    ]
+  }
+}

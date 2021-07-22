@@ -1,0 +1,47 @@
+{
+  "id": "TKYO",
+  "name": "Tokyo Cement Company Lanka PLC",
+  "description": "Grass-Roots Client-Server Groupware",
+  "tagline": "Strategize Cutting-Edge Web-Readiness",
+  "company-email": "terry02@ziemann.info",
+  "ein": "80-6501139",
+  "logo": "https://cdn.cse.lk/cmt/upload_logo/688_1601611429.jpeg",
+  "profile": {
+    "industry": "Construction - Raw Materials",
+    "sector": "Capital Goods",
+    "employee_count": 1381,
+    "equity_type": "ORD",
+    "description": "Tokyo Cement Company (Lanka) PLC manufactures and markets cement and ready mixed concrete in Sri Lanka. The company offers ordinary Portland cement under the Tokyo Super and Nippon brand names; blended hydraulic cement under the Tokyo Super brand; and tile adhesives under the Tokyo Superbond name. It also provides flooring compounds under the Tokyo Superflow name and waterproofing products under the Tokyo Superseal name; and internal and external wall plasters under the Tokyo Supercast name; pre-mix concrete under the Tokyo Supermix name; and Tokyo Superlight cellular lightweight concrete blocks. In addition, the company manufactures and sells sand and aggregates; and operates biomass power plants. Tokyo Cement Company (Lanka) PLC was founded in 1982 and is headquartered in Colombo, Sri Lanka.",
+    "address": "P.O.Box 837, Colombo, 3, Sri Lanka",
+    "phone": "+94-11-2558100",
+    "fax": "11-2500897",
+    "email": "-",
+    "web": "http://www.tokyocement.com/",
+    "executives": [
+      {
+        "name": "Natalie Bell",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Chloe Hill",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Elizabeth Forsyth",
+        "title": "Managing Director"
+      },
+      {
+        "name": "Dan Piper",
+        "title": "Director"
+      },
+      {
+        "name": "Kimberly Lawrence",
+        "title": "Director"
+      },
+      {
+        "name": "Sophie Grant",
+        "title": "Director"
+      }
+    ]
+  }
+}

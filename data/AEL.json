@@ -1,0 +1,47 @@
+{
+  "id": "AEL",
+  "name": "Access Engineering PLC",
+  "description": "Grass-Roots Client-Server Groupware",
+  "tagline": "Strategize Cutting-Edge Web-Readiness",
+  "company-email": "terry02@ziemann.info",
+  "ein": "80-6501139",
+  "logo": "https://cdn.cse.lk/cmt/upload_logo/1141_1601609745.jpeg",
+  "profile": {
+    "industry": "Engineering and Construction",
+    "sector": "Capital Goods",
+    "employee_count": 3216,
+    "equity_type": "ORD",
+    "description": "Access Engineering PLC is a civil engineering company that is involved in the business of construction activities and supply of construction-related services and materials. Its segments include Construction and Production of Construction Related Material. Its engineering projects include bridges and flyovers, roads and highways, harbors, water treatment plants and water supply projects, land drainage and irrigation schemes, and telecommunication infrastructure projects. Its engineering services include engineering design; geotechnical and laboratory services; supply of asphalt concrete; supply of ready mix concrete; piling; horizontal directional drilling (HDD) and cable jetting services; designing and fabricating light-duty and heavy-duty steel components for machinery and construction projects, and dredging and excavation. Its projects include Kapparathota Jetty, Colombo-Kandy Road, Towns East of Colombo District Water Supply Project and Greater Colombo Wastewater Management Project.",
+    "address": "No 278, Union Place, Colombo 02Colombo, 02Sri Lanka",
+    "phone": "+94-11-2302302",
+    "fax": "11-2302333",
+    "email": "-",
+    "web": "http://www.accessengsl.com/",
+    "executives": [
+      {
+        "name": "Natalie Bell",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Chloe Hill",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Elizabeth Forsyth",
+        "title": "Managing Director"
+      },
+      {
+        "name": "Dan Piper",
+        "title": "Director"
+      },
+      {
+        "name": "Kimberly Lawrence",
+        "title": "Director"
+      },
+      {
+        "name": "Sophie Grant",
+        "title": "Director"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "HHL",
+  "name": "Hemas Holdings PLC",
+  "description": "Grass-Roots Client-Server Groupware",
+  "tagline": "Strategize Cutting-Edge Web-Readiness",
+  "company-email": "terry02@ziemann.info",
+  "ein": "80-6501139",
+  "logo": "https://cdn.cse.lk/cmt/upload_logo/506_1601461453.jpeg",
+  "profile": {
+    "industry": "Major Drugs",
+    "sector": "Healthcare",
+    "employee_count": 5621,
+    "equity_type": "ORD",
+    "description": "Hemas Holdings PLC (Hemas) is a Sri Lanka-based pharmaceuticals company engaged in healthcare, leisure and transportation services. The Company operates in various segments, such as FMCG, Healthcare, Leisure, Transportation, Power and others. The FMCG business sector manufactures and markets personal care and home care branded products. Its Healthcare sector is a distributor of pharmaceuticals, surgical and diagnostic products in Sri Lanka. Its Leisure sector consists of the Serendib Leisure Group of Hotels. The Transportation sector consists of the aviation business both in the passenger and cargo segments, its maritime business providing feeder operations and agency services for international shipping partners, its outbound travel agency services via Hemas Travels and its logistics business unit consists of integrated logistic services.",
+    "address": "Colombo, 01, Sri Lanka",
+    "phone": "+94-11-4731713",
+    "fax": "11-2332889",
+    "email": "-",
+    "web": "www.hemas.com",
+    "executives": [
+      {
+        "name": "Natalie Bell",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Chloe Hill",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Elizabeth Forsyth",
+        "title": "Managing Director"
+      },
+      {
+        "name": "Dan Piper",
+        "title": "Director"
+      },
+      {
+        "name": "Kimberly Lawrence",
+        "title": "Director"
+      },
+      {
+        "name": "Sophie Grant",
+        "title": "Director"
+      }
+    ]
+  }
+}
